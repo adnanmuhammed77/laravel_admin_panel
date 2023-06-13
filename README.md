@@ -7,13 +7,7 @@ screenshot
 ##### composer create-project laravel/laravel example-app
 
 ### step-2 stepup database
-
-###### DB_CONNECTION=mysql
-###### DB_HOST=127.0.0.1
-###### DB_PORT=3306
 ###### DB_DATABASE=database name
-###### DB_USERNAME=root
-###### DB_PASSWORD=
 
 ### step-3  install layout package
 
